@@ -21,4 +21,5 @@ const words = [
 ]
 
 const randomIndex = getRandomNumberUpTo(words.length)
-wordElement.innerText = words[randomIndex]
+//wordElement.innerText = words[randomIndex]
+let targetWord = words[randomIndex].toUpperCase()
