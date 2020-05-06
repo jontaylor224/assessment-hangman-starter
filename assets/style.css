@@ -1,0 +1,12 @@
+#letters-attempted {
+    height: 1em;
+    font-size: 18px;
+}
+
+#guesses-text {
+    display: inline-block;
+}
+
+#letter-input {
+    font-size: 15px;
+}
