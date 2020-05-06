@@ -7,6 +7,12 @@
     display: inline-block;
 }
 
+label {
+    font-size: 18px;
+}
+
 #letter-input {
-    font-size: 15px;
+    font-size: 20px;
+    padding: 0 0.5em;
+    width: 1em;
 }
