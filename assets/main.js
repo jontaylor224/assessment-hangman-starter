@@ -13,7 +13,7 @@ wordToGuessElement.innerText = currentWord
 let wrongLetterCount = 0
 let gameOver = false
 
-console.log(targetWord)
+// console.log(targetWord)
 
 letterSubmitButton.addEventListener('click', function(){
     if (!gameOver) {
